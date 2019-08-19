@@ -1,0 +1,25 @@
+/* CSS for 404 html */
+
+body {
+	background-color: 
+}
+
+.error {
+
+	font-size: 80px;
+	color: black;
+	text-align: center;
+	margin-top: 10%;
+	font-style: bold;
+
+}
+.txt {
+	text-align: center;
+	font-size: 25px;
+
+}
+
+.button {
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+}
