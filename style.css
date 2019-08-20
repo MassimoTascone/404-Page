@@ -1,15 +1,16 @@
 /* CSS for 404 html */
 
 body {
-	background-color: 
+	background-color:white;
+	font-family: system-ui;
 }
 
 .error {
 
-	font-size: 80px;
+	font-size: 95px;
 	color: black;
 	text-align: center;
-	margin-top: 10%;
+	margin-top: 8%;
 	font-style: bold;
 
 }
@@ -22,4 +23,28 @@ body {
 .button {
 	text-align: center;
 	padding: 15px 15px 15px 15px;
+}
+
+.buttonform {
+	background-color: white;
+	border: solid #85144b 2px;
+	font-size: 25px;
+	padding: 14px 28px;
+	border-radius: 4px;
+	color: #85144b;
+
+}
+
+.buttonform:hover {
+	background-color: #85144b;
+	color: white;
+	cursor: pointer;
+	transition-duration: 0.5s;
+
+
+}
+
+.travolta {
+	position: relative;
+	margin-left: 40%;
 }
